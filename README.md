@@ -1,4 +1,4 @@
-## Bidirectional Iterative Deepening A* for maratime routing
+## Bidirectional Iterative Deepening A* for maritime routing
 
 ### Run
 
