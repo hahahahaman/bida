@@ -2,7 +2,7 @@
 
 ### Run
 
-Get geotools runinng [Geotools](http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html)
+Get geotools running [Geotools](http://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html)
 
 
 Execute using maven:
